@@ -13,7 +13,26 @@
 
 ***Packages and tech i used to make this app:***   
 *• Frontend:*   
-- a
+- Reactjs hooks: useState, useEffect, useContext.   
+- React router.   
+- Other Npm packages: validator, axios.
 
 *• Backend:*   
-- a
+- Nodejs: express, mongoose (MongoDB), REST APIs.   
+- Other Npm packages: validator bcryptjs, jsonwebtoken, cookie-parser, bad-words, multer, sharp.   
+- Npm packages i used for development only:  env-cmd, nodemon.   
+
+
+![alt text](https://raw.githubusercontent.com/Hani-ALHamad/react-node-user-system/main/signUp.jpg)
+
+
+![alt text](https://raw.githubusercontent.com/Hani-ALHamad/react-node-user-system/main/signIn.jpg)
+
+
+![alt text](https://raw.githubusercontent.com/Hani-ALHamad/react-node-user-system/main/loggedIn.jpg)
+
+
+![alt text](https://raw.githubusercontent.com/Hani-ALHamad/react-node-user-system/main/accountDetails.jpg)
+
+
+![alt text](https://raw.githubusercontent.com/Hani-ALHamad/react-node-user-system/main/accountDetailsSave.jpg)
