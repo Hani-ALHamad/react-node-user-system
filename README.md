@@ -11,7 +11,7 @@
 - All data are stored in a MongoDB database.   
 
 
-*Packages and tech i used to make this app:*   
+**Packages and tech i used to make this app:**   
 • Frontend:   
 - a
 
