@@ -21,7 +21,7 @@ My first Nodejs project, its a user system with some features.
 
 *• Backend:*   
 - Nodejs: express, mongoose (MongoDB), REST APIs.   
-- Other Npm packages: validator bcryptjs, jsonwebtoken, cookie-parser, bad-words, multer, sharp.   
+- Other Npm packages: validator, bcryptjs, jsonwebtoken, cookie-parser, bad-words, multer, sharp.   
 - Npm packages i used for development only:  env-cmd, nodemon.   
    
 ---
