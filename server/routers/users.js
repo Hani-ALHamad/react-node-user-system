@@ -59,6 +59,7 @@ router.post("/usersignin", async (req, res) => {
     res.cookie("secureToken", token, {
       secure: process.env.NODE_ENV !== "development",
       httpOnly: true,
+      sameSite: 'strict'
     });
 
     res.send({user, token})
