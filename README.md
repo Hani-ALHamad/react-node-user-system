@@ -13,7 +13,7 @@
 
 Packages and tech i used to make this app:   
 • Frontend:   
-- 
+- a
 
 • Backend:   
 - 
