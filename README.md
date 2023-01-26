@@ -24,7 +24,7 @@ My first Nodejs project, its a user system with some features.
 - Other Npm packages: validator, bcryptjs, jsonwebtoken, cookie-parser, bad-words, multer, sharp.   
 - Npm packages i used for development only:  env-cmd, nodemon.   
    
----
+--- 
 
 ![alt text](https://raw.githubusercontent.com/Hani-ALHamad/react-node-user-system/main/signUp.jpg)
 
