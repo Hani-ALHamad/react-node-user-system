@@ -15,7 +15,7 @@ My first Nodejs project, its a user system with some features.
 
 ***Packages and tech i used to make this app:***   
 *• Frontend:*   
-- Reactjs hooks: useState, useEffect, useContext.   
+- Reactjs hooks: useState, useEffect, useContext.    
 - React router.   
 - Other Npm packages: validator, axios.
 
